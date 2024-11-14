@@ -10,7 +10,7 @@ XATU计算机科学与技术专业大四<br>
 
 # 技能概述 Skills 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Autumn716&show_icons=true&theme=blueberry&hide=contribs)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn716&hide=javascript,html&layout=compact)](https://github.com/Autumn716/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn716&layout=compact)](https://github.com/Autumn716/github-readme-stats)
 <!--
 **Autumn716/Autumn716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
