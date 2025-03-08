@@ -9,7 +9,7 @@
 ## 🎯 求职 | Job Hunting
 
 XATU 25届计算机科学与技术专业<br>
-找<b>Go方向后端工作中🤔</b>，意向：国内均可，工资能养活自己就行<br>
+<b>Golang Junior Engineer🤔</b><br>
 ___
 ## 💻 技术栈 | Tech Stack
 ### 后端📓 | Backend
