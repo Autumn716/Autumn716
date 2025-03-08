@@ -3,13 +3,13 @@
 # 🌟 Hello World, I'm Autumn716
 ### Go Developer & CS student 
 ![](https://img.shields.io/badge/Focus-Go_Full_Stack-BE2EDD)
-![](https://img.shields.io/badge/Role-ComputerScience_Student-20B2AA)
+![](https://img.shields.io/badge/Role-Golang Junior Engineer-20B2AA)
 </div>
 
 ## 🧾 个人背景 | Academic Background & Technical Background
 
-XATU Computer Science and Technology Major<br>
-<b>Golang Junior Engineer🤔</b><br>
+<b>XATU Computer Science and Technology Major</b><br>
+<b>Golang Junior Engineer</b><br>
 ___
 ## 💻 技术栈 | Tech Stack
 ### 后端📓 | Backend
