@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/Role-ComputerScience_Student-20B2AA)
 </div>
 
-## 🎯 求职 | Job Hunting
+## 🧾 个人背景 | Academic Background & Technical Background
 
-XATU 25届计算机科学与技术专业<br>
+XATU Computer Science and Technology Major<br>
 <b>Golang Junior Engineer🤔</b><br>
 ___
 ## 💻 技术栈 | Tech Stack
